@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Logo Yazılım<br>🌱 I’m currently learning Deep Dive in C#, Python <br>💬 Ask me about C# and Python, I try to answer with my best
+🔭 I’m currently working on Odeon Technology <br>🌱 I’m currently learning Deep Dive in C#, Python <br>💬 Ask me about C# and Python, I try to answer with my best
 
 
 ## 🌐 Socials:
